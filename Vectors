@@ -2,7 +2,7 @@ package default;
 
 public class Vectors {
 
-  public double dotProduct(double[] u, double[] v) {
+  	public double dotProduct(double[] u, double[] v) {
 		return u[0] * v[0] + u[1] * v[1];
 	}
 	
