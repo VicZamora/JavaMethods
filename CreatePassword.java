@@ -6,7 +6,7 @@ public class Main {
 
 		// length of the password
 		int length = 20;
-		
+		// Intermediate passwords
 		char [][] fake = new char [5][length];
 		// final password
 		char [] pass = new char [length];
